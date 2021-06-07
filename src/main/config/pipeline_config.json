@@ -1,0 +1,18 @@
+{
+  "mysqlReadDBURL": "jdbc:mysql://test.io/",
+  "mysqlMasterDBURL": "jdbc:mysql://test.io/",
+  "mysqlDBUser": "XXXXXX",
+  "mysqlDBPass": "XXXXXX",
+  "mysqlSchema": "test1",
+  "topic": "review-topic",
+  "bootstrapServers": "localhost:9092",
+  "consumerGroup" : "ARPipelineGroup",
+  "awsAccessKeyId": "+1UKZCD160Xqi+9cMCixTrKqBIbHQ+9A",
+  "awsSecretAccessKey": "Ctdn1MxzIs2bIMTrGJlq3re95h7LRb8IBVNlTdwXJYk8g52/mMnRJAfgT9O6vFdx",
+  "metaDataPartitionCount": "100",
+  "esNodes": "https://test.us-east-1.es.amazonaws.com",
+  "esPort": "443",
+  "esIndexName" : "amazon_review",
+  "executeCreateTableFlag" : "N",
+  "pushDataToElastics" : "N"
+}

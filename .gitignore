@@ -1,0 +1,6 @@
+metastore_db/*
+.idea/*
+target/*
+derby.log
+log4j-application.log
+*.iml
