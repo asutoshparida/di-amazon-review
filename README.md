@@ -3,6 +3,12 @@ This repository will be used for managing all the code related to pipeline for a
 
 -----
 
+## High Level Design
+
+![Test Image 3](amazon_reviews-HLD.jpg)
+
+-----
+
 # Synopsis
 
     Data
